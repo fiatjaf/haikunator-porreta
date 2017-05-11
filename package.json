@@ -1,0 +1,23 @@
+{
+  "name": "haikunator-porreta",
+  "version": "1.0.0",
+  "description": "Generate Heroku-like random names with portuguese funny words.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiatjaf/haikunator-porreta.git"
+  },
+  "keywords": [
+    "haiku",
+    "brazil",
+    "porreta",
+    "brasil",
+    "heroku",
+    "random",
+    "alvarenga",
+    "ranchinho",
+    "angelica"
+  ],
+  "author": "Giovanni T. Parra",
+  "license": "ISC"
+}
